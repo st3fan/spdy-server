@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-continuation:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-jetty-http:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-jetty:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-core:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.npn:npn-api:8.1.2.v20120308" level="project" />
+  </component>
+</module>
+
