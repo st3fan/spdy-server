@@ -22,7 +22,7 @@ public class Main
         contextFactory.setKeyStorePath("jetty.keystore");
         contextFactory.setKeyStorePassword("q1w2e3");
 
-        SslSelectChannelConnectors connector1 = new SslSelectChannelConnector(contextFactory);
+        SslSelectChannelConnector connector1 = new SslSelectChannelConnector(contextFactory);
         connector1.setPort(8443);
 
         HTTPSPDYServerConnector connector2 = new HTTPSPDYServerConnector(contextFactory);
