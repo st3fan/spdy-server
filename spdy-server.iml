@@ -15,16 +15,14 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:8.1.2.v20120308" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-jetty-http:8.1.2.v20120308" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-jetty:8.1.2.v20120308" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty.spdy:spdy-core:8.1.2.v20120308" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
-    <orderEntry type="library" name="Maven: junit:junit:4.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:8.1.2.v20120308" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty.npn:npn-api:8.1.2.v20120308" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: log4j:log4j:1.2.16" level="project" />
   </component>
 </module>
 

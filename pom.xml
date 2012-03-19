@@ -17,11 +17,6 @@
             <version>8.1.2.v20120308</version>
         </dependency>
         <dependency>
-            <groupId>org.eclipse.jetty.spdy</groupId>
-            <artifactId>spdy-jetty-http</artifactId>
-            <version>8.1.2.v20120308</version>
-        </dependency>
-        <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
             <version>8.1.2.v20120308</version>
@@ -30,6 +25,17 @@
             <groupId>org.eclipse.jetty.npn</groupId>
             <artifactId>npn-api</artifactId>
             <version>8.1.2.v20120308</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.6.1</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 </project>
